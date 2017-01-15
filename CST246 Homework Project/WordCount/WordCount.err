@@ -1,0 +1,4 @@
+HashMap   build time:      5.434 ms.
+HashMap display time:    458.098 ms.
+TreeMap   build time:      7.608 ms.
+TreeMap display time:     78.770 ms.

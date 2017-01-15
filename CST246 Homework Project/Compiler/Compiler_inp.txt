@@ -1,0 +1,11 @@
+2
+3
+a=5
+a
+b = 7
+b
+c = a + b
+d=a+b*c
+e=(a+b)*c
+f=0-b
+g=a*(b-c)/a
